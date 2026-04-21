@@ -7,3 +7,4 @@ Purpose: reproduce GitHub Actions Expression Injection via commit author name
 on a repo under our own control. No real DailyPay data, secrets, or infra.
 
 Updated 2026-04-21T19:44:45Z
+# fix: resolve ci auth check
